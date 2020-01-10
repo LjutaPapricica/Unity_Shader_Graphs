@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Monkey_Dissolve
   m_Shader: {fileID: 4800000, guid: c2a0f7224b86f9a479e2b9f9215b5d78, type: 3}
   m_ShaderKeywords: 
@@ -61,7 +62,7 @@ Material:
     m_Floats:
     - Vector1_291AE949: 0.01
     - Vector1_A14AE348: 1.5
-    - Vector1_BA986082: 60
+    - Vector1_BA986082: 20
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
