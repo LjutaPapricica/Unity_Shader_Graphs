@@ -1,8 +1,10 @@
 # Unity Shader Graphs
 A repository for exploring Unity's Shader Graph feature
 
-The main scene contains the glow, dissolve and hologram shaders from [Brackey's Shader Graphs tutorials](https://github.com/Brackeys/Shader-Graph-Tutorials)
-
 ![](https://media.giphy.com/media/55vDjo1ccm1xnagsRh/giphy.gif)
 
-Ghost shader and water shader are also included (second scene)
+Includes: 
+* Glow shader
+* Hologram shader
+* Dissolve shader
+* Crystal shaders (glow + ice)
