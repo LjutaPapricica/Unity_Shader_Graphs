@@ -8,3 +8,4 @@ Includes:
 * Hologram shader
 * Dissolve shader
 * Crystal shaders (glow + ice)
+* Skybox shader
