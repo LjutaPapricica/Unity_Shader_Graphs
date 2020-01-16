@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ProceduralSkybox_material
+  m_Shader: {fileID: -6465566751694194690, guid: b4380f19aab22b048a6f1d589fd5be25,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_109A3276:
+        m_Texture: {fileID: 2800000, guid: bd2cb462f7260024a8efb051d1d2ac72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8FC4FB3C:
+        m_Texture: {fileID: 2800000, guid: 2fe8a967dc84fd54685ca4c2a6edc91c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_D0245585_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c92b59297b6e1ca4c959bc9a9c84326d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_B3F38BA5_Out_0:
+        m_Texture: {fileID: 2800000, guid: c92b59297b6e1ca4c959bc9a9c84326d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1F8698B1: 0.03
+    - Vector1_25C38FF4: 1.6
+    - Vector1_440A5980: 1.51
+    - Vector1_6EAE72CD: 1.65
+    - Vector1_7EBFA509: 25
+    - Vector1_8848854: 1
+    - Vector1_891439A2: 0.03
+    - Vector1_9048751B: 0.613
+    - Vector1_A08EDB69: 5
+    - Vector1_A589D812: 0.05
+    - Vector1_B231C74A: 1
+    - Vector1_C077414D: 0.3
+    - Vector1_C7A191FE: 0.8
+    - Vector1_F62FA559: 0.8
+    m_Colors:
+    - Color_3FD61F92: {r: 0, g: 0.5002658, b: 0.8654602, a: 0}
+    - Color_5BE30CC: {r: 1, g: 1, b: 1, a: 1}
+    - Color_AE284E4F: {r: 0, g: 0.013858947, b: 0.2356021, a: 1}
+    - Color_CC557891: {r: 0.5396493, g: 0.54124284, b: 0.6320754, a: 0}
+    - Vector2_11ECD5D: {r: 0, g: 0, b: 0, a: 0}
